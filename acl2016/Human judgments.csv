@@ -1,0 +1,1409 @@
+T1,T2,Field,NLP PhD 1,Other PhD 1,NLP PhD student 1,NLP PhD student 2,NLP PhD student 3,AI PhD student 1,MS student 1,MS student 2
+0,7,Similarity,3,3,3,3,3,3,2,3
+0,7,T1 Help Understand T2,3,3,3,3,3,3,3,1
+0,7,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,7,T2 Help Understand T1,1,1,2,2,3,2,1,1
+0,7,T2 Topic Coherence,3,3,3,3,3,3,3,3
+0,19,Similarity,,,,,,,,1
+0,19,T1 Topic Coherence,3,2,3,3,3,3,3,3
+0,19,T2 Topic Coherence,1,1,1,1,,1,1,2
+0,20,Similarity,,1,1,1,2,1,,1
+0,20,T1 Help Understand T2,,1,1,1,2,1,,
+0,20,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,20,T2 Help Understand T1,,1,1,1,2,1,,
+0,20,T2 Topic Coherence,1,2,3,2,2,2,1,2
+0,26,Similarity,,,,,2,,1,2
+0,26,T1 Help Understand T2,,,,,1,,1,1
+0,26,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,26,T2 Help Understand T1,,,,,1,,1,2
+0,26,T2 Topic Coherence,,2,,2,2,,2,2
+0,33,Similarity,2,2,,1,,,,1
+0,33,T1 Help Understand T2,1,1,,1,,,,
+0,33,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,33,T2 Help Understand T1,2,2,,1,,,,
+0,33,T2 Topic Coherence,2,2,1,2,1,1,1,2
+0,34,Similarity,,,,,2,,,
+0,34,T1 Help Understand T2,,,,,2,,,
+0,34,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,34,T2 Help Understand T1,,,,,2,,,
+0,34,T2 Topic Coherence,,,,1,2,,1,1
+0,35,Similarity,,,,,,,3,2
+0,35,T1 Help Understand T2,,,,,,,2,1
+0,35,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,35,T2 Help Understand T1,,,,,,,3,2
+0,35,T2 Topic Coherence,1,,1,1,1,1,2,2
+0,36,Similarity,,2,,2,,,,
+0,36,T1 Help Understand T2,,2,,2,,,,
+0,36,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,36,T2 Help Understand T1,,3,,3,,,,
+0,36,T2 Topic Coherence,1,3,1,3,,,1,
+0,38,Similarity,,,,,,,2,2
+0,38,T1 Help Understand T2,,,,,,,1,2
+0,38,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,38,T2 Help Understand T1,,,,,,,2,1
+0,38,T2 Topic Coherence,1,1,1,,1,1,2,2
+0,50,Similarity,,3,,,,,2,2
+0,50,T1 Help Understand T2,,3,,,,,2,1
+0,50,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,50,T2 Help Understand T1,,2,,,,,3,2
+0,50,T2 Topic Coherence,2,3,1,1,1,1,2,2
+0,60,Similarity,,,1,2,2,3,,2
+0,60,T1 Help Understand T2,,,1,,2,,,2
+0,60,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,60,T2 Help Understand T1,,,1,,2,,,1
+0,60,T2 Topic Coherence,3,1,2,2,2,2,1,3
+0,61,Similarity,,,,2,,,2,1
+0,61,T1 Help Understand T2,,,,1,,,2,
+0,61,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,61,T2 Help Understand T1,,,,2,,,2,
+0,61,T2 Topic Coherence,1,1,1,2,1,1,2,2
+0,62,Similarity,,,,,2,,,
+0,62,T1 Help Understand T2,,,,,2,,,
+0,62,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,62,T2 Help Understand T1,,,,,2,,,
+0,62,T2 Topic Coherence,,1,,1,2,,1,1
+0,65,Similarity,3,3,3,2,2,3,3,3
+0,65,T1 Help Understand T2,1,2,1,1,1,1,3,1
+0,65,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,65,T2 Help Understand T1,3,2,3,2,1,3,2,1
+0,65,T2 Topic Coherence,3,3,3,3,3,3,3,3
+0,73,Similarity,2,2,2,2,2,2,2,
+0,73,T1 Help Understand T2,1,1,1,1,1,1,1,
+0,73,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,73,T2 Help Understand T1,1,2,2,1,2,1,3,3
+0,73,T2 Topic Coherence,3,3,3,2,3,3,2,3
+0,78,Similarity,3,3,3,3,,3,3,3
+0,78,T1 Help Understand T2,1,2,2,3,,1,3,2
+0,78,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,78,T2 Help Understand T1,3,3,3,3,,3,3,3
+0,78,T2 Topic Coherence,3,3,3,2,3,3,2,3
+0,89,Similarity,,,,2,,,,2
+0,89,T1 Help Understand T2,,,,,,,,1
+0,89,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,89,T2 Help Understand T1,,,,,,,,2
+0,89,T2 Topic Coherence,1,1,1,2,1,1,1,2
+0,95,Similarity,1,,,1,,2,2,2
+0,95,T1 Help Understand T2,1,,,1,,1,2,1
+0,95,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,95,T2 Help Understand T1,1,,,1,,2,2,2
+0,95,T2 Topic Coherence,3,1,1,2,,3,2,2
+0,96,Similarity,2,,,,,,3,1
+0,96,T1 Help Understand T2,1,,,,,,2,
+0,96,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,96,T2 Help Understand T1,2,,,,,,3,
+0,96,T2 Topic Coherence,2,1,1,1,,1,2,3
+0,101,Similarity,2,,,,,,,1
+0,101,T1 Help Understand T2,1,,,,,,,
+0,101,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,101,T2 Help Understand T1,2,,,,,,,
+0,101,T2 Topic Coherence,2,1,1,1,1,1,1,2
+0,104,Similarity,1,2,2,2,3,2,2,1
+0,104,T1 Help Understand T2,1,1,1,1,2,1,1,
+0,104,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,104,T2 Help Understand T1,2,3,2,2,3,2,2,
+0,104,T2 Topic Coherence,3,3,3,2,3,3,2,3
+0,105,Similarity,2,2,3,2,,2,,2
+0,105,T1 Help Understand T2,2,2,3,2,,1,,3
+0,105,T1 Topic Coherence,3,3,3,3,3,3,,3
+0,105,T2 Help Understand T1,1,1,2,1,,1,,1
+0,105,T2 Topic Coherence,2,2,3,2,2,2,,3
+0,201,Similarity,3,2,,2,,2,,
+0,201,T1 Help Understand T2,3,2,,1,,1,,
+0,201,T1 Topic Coherence,3,3,3,2,3,3,3,3
+0,201,T2 Help Understand T1,1,2,,2,,1,,
+0,201,T2 Topic Coherence,3,2,1,2,1,2,1,1
+0,229,Similarity,3,3,3,3,3,3,3,3
+0,229,T1 Help Understand T2,2,3,1,3,3,3,3,3
+0,229,T1 Topic Coherence,3,3,3,3,3,3,3,3
+0,229,T2 Help Understand T1,3,3,3,3,3,2,3,2
+0,229,T2 Topic Coherence,3,3,2,3,3,2,2,3
+1,2,Similarity,1,3,2,2,3,3,2,2
+1,2,T1 Help Understand T2,1,1,2,1,2,2,2,2
+1,2,T1 Topic Coherence,3,3,3,3,3,2,3,2
+1,2,T2 Help Understand T1,1,2,1,2,3,2,2,1
+1,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+1,65,Similarity,3,3,3,3,3,3,2,2
+1,65,T1 Help Understand T2,3,3,3,2,2,3,1,2
+1,65,T1 Topic Coherence,3,3,3,2,3,2,3,3
+1,65,T2 Help Understand T1,1,3,1,3,2,2,2,1
+1,65,T2 Topic Coherence,3,3,3,3,3,3,3,2
+1,97,Similarity,2,3,2,1,3,3,3,2
+1,97,T1 Help Understand T2,1,2,2,1,3,3,3,1
+1,97,T1 Topic Coherence,3,3,2,2,3,2,3,3
+1,97,T2 Help Understand T1,2,3,1,1,3,3,3,2
+1,97,T2 Topic Coherence,2,2,3,2,3,3,3,3
+1,201,Similarity,3,,,,,,,2
+1,201,T1 Help Understand T2,1,,,,,,,3
+1,201,T1 Topic Coherence,3,3,3,2,2,2,2,2
+1,201,T2 Help Understand T1,2,,,,,,,1
+1,201,T2 Topic Coherence,3,1,1,1,1,2,1,3
+2,10,Similarity,3,,3,,2,3,3,2
+2,10,T1 Help Understand T2,,,2,,2,2,3,1
+2,10,T1 Topic Coherence,3,3,3,3,3,3,3,3
+2,10,T2 Help Understand T1,,,3,,2,3,3,2
+2,10,T2 Topic Coherence,2,1,2,1,2,3,3,2
+2,16,Similarity,2,3,2,1,3,3,3,3
+2,16,T1 Help Understand T2,2,3,3,1,3,3,3,3
+2,16,T1 Topic Coherence,3,3,3,3,3,3,3,3
+2,16,T2 Help Understand T1,1,2,1,1,2,2,2,2
+2,16,T2 Topic Coherence,3,3,3,3,3,3,3,3
+2,133,Similarity,,,,,,,,2
+2,133,T1 Help Understand T2,,,,,,,,2
+2,133,T1 Topic Coherence,3,3,3,3,3,3,3,3
+2,133,T2 Help Understand T1,,,,,,,,2
+2,133,T2 Topic Coherence,1,,1,1,1,,1,2
+2,138,Similarity,,3,1,1,1,,1,2
+2,138,T1 Help Understand T2,,3,1,1,,,1,1
+2,138,T1 Topic Coherence,3,3,3,3,3,3,2,3
+2,138,T2 Help Understand T1,,3,1,1,,,1,2
+2,138,T2 Topic Coherence,1,3,2,3,2,1,2,2
+2,172,Similarity,3,3,3,3,3,3,3,2
+2,172,T1 Help Understand T2,3,3,3,3,3,3,3,2
+2,172,T1 Topic Coherence,3,3,3,3,3,3,3,3
+2,172,T2 Help Understand T1,1,2,1,2,3,2,2,1
+2,172,T2 Topic Coherence,3,3,3,3,3,3,3,3
+2,174,Similarity,,,,,,,,2
+2,174,T1 Help Understand T2,,,,,,,,1
+2,174,T1 Topic Coherence,3,3,3,3,3,3,3,3
+2,174,T2 Help Understand T1,,,,,,,,2
+2,174,T2 Topic Coherence,3,1,,1,,1,1,2
+2,227,Similarity,,,,,,,2,
+2,227,T1 Help Understand T2,,,,,,,1,
+2,227,T1 Topic Coherence,3,3,3,3,3,3,3,3
+2,227,T2 Help Understand T1,,,,,,,2,
+2,227,T2 Topic Coherence,1,1,1,1,1,1,2,1
+3,0,Similarity,1,,,,,,,2
+3,0,T1 Help Understand T2,1,,,,,,,2
+3,0,T1 Topic Coherence,3,,,1,,1,1,2
+3,0,T2 Help Understand T1,1,,,,,,,1
+3,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+4,0,Similarity,2,2,2,2,,1,,2
+4,0,T1 Help Understand T2,1,2,2,1,,1,,1
+4,0,T1 Topic Coherence,3,3,3,2,3,3,1,3
+4,0,T2 Help Understand T1,1,2,1,1,,1,,1
+4,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+4,229,Similarity,2,1,1,,,3,2,
+4,229,T1 Help Understand T2,2,1,1,,,1,2,
+4,229,T1 Topic Coherence,3,3,2,1,3,3,2,1
+4,229,T2 Help Understand T1,1,1,1,,,1,1,
+4,229,T2 Topic Coherence,3,3,2,2,3,3,3,2
+6,90,Similarity,,3,3,3,3,3,,2
+6,90,T1 Help Understand T2,,2,2,3,3,3,,3
+6,90,T1 Topic Coherence,3,3,2,3,3,3,2,2
+6,90,T2 Help Understand T1,,3,3,3,3,3,,1
+6,90,T2 Topic Coherence,,3,3,2,3,3,1,3
+6,110,Similarity,2,2,2,2,1,3,,3
+6,110,T1 Help Understand T2,1,,1,1,1,2,,1
+6,110,T1 Topic Coherence,2,3,2,3,3,3,2,3
+6,110,T2 Help Understand T1,2,,3,1,1,3,,3
+6,110,T2 Topic Coherence,3,3,3,3,3,3,2,3
+6,168,Similarity,2,,3,2,3,3,3,2
+6,168,T1 Help Understand T2,1,1,2,2,3,3,3,
+6,168,T1 Topic Coherence,3,3,3,3,3,3,2,2
+6,168,T2 Help Understand T1,2,3,3,2,3,2,3,2
+6,168,T2 Topic Coherence,3,3,3,3,3,3,3,2
+7,293,Similarity,2,2,2,3,2,3,2,2
+7,293,T1 Help Understand T2,1,1,1,2,2,2,2,2
+7,293,T1 Topic Coherence,3,3,2,3,3,3,3,3
+7,293,T2 Help Understand T1,2,2,2,2,2,3,2,1
+7,293,T2 Topic Coherence,3,3,3,2,3,3,3,2
+10,23,Similarity,2,2,,2,1,,,2
+10,23,T1 Help Understand T2,1,1,,2,,,,2
+10,23,T1 Topic Coherence,2,2,2,2,3,2,2,3
+10,23,T2 Help Understand T1,1,2,,2,,,,1
+10,23,T2 Topic Coherence,2,2,1,2,3,1,1,2
+10,25,Similarity,3,2,2,,2,2,2,3
+10,25,T1 Help Understand T2,1,3,2,,2,2,2,1
+10,25,T1 Topic Coherence,2,2,2,1,3,2,3,3
+10,25,T2 Help Understand T1,1,2,1,,2,1,1,3
+10,25,T2 Topic Coherence,3,2,3,3,3,3,2,3
+13,0,Similarity,,,2,,1,,,1
+13,0,T1 Help Understand T2,,,2,,,,,
+13,0,T1 Topic Coherence,,2,3,,2,,,2
+13,0,T2 Help Understand T1,,,1,,,,,
+13,0,T2 Topic Coherence,3,3,2,3,3,3,,3
+13,158,Similarity,,,,,,,3,1
+13,158,T1 Help Understand T2,,,,,,,2,
+13,158,T1 Topic Coherence,,2,,,,,2,2
+13,158,T2 Help Understand T1,,,,,,,3,
+13,158,T2 Topic Coherence,3,3,3,2,3,,3,2
+13,266,Similarity,,,,,,,2,3
+13,266,T1 Help Understand T2,,,,,,,2,1
+13,266,T1 Topic Coherence,,3,2,,,,3,2
+13,266,T2 Help Understand T1,,,,,,,2,3
+13,266,T2 Topic Coherence,3,3,2,2,3,2,2,2
+14,186,Similarity,,,3,2,2,3,1,2
+14,186,T1 Help Understand T2,,,3,2,2,3,1,2
+14,186,T1 Topic Coherence,2,3,3,2,3,3,2,3
+14,186,T2 Help Understand T1,,,1,2,2,2,1,1
+14,186,T2 Topic Coherence,3,1,3,2,3,3,2,3
+14,195,Similarity,1,,3,2,2,,,2
+14,195,T1 Help Understand T2,1,,3,2,2,,,1
+14,195,T1 Topic Coherence,3,3,3,2,3,3,2,3
+14,195,T2 Help Understand T1,1,,1,2,2,,,3
+14,195,T2 Topic Coherence,2,,3,2,2,3,1,3
+16,25,Similarity,3,3,2,2,3,,,
+16,25,T1 Help Understand T2,1,2,2,2,1,,,1
+16,25,T1 Topic Coherence,3,3,3,3,3,3,,3
+16,25,T2 Help Understand T1,3,3,2,1,3,,,3
+16,25,T2 Topic Coherence,3,3,3,3,3,3,,3
+16,172,Similarity,3,2,3,2,3,3,3,3
+16,172,T1 Help Understand T2,,2,3,1,2,3,3,1
+16,172,T1 Topic Coherence,3,2,3,3,3,3,3,3
+16,172,T2 Help Understand T1,,2,2,1,3,3,3,1
+16,172,T2 Topic Coherence,3,3,3,3,3,3,2,3
+17,0,Similarity,3,2,3,,,,1,2
+17,0,T1 Help Understand T2,1,2,2,,,,1,2
+17,0,T1 Topic Coherence,2,2,2,1,,1,2,2
+17,0,T2 Help Understand T1,3,3,3,,,,1,1
+17,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+18,0,Similarity,2,2,1,2,3,,2,2
+18,0,T1 Help Understand T2,2,2,2,2,3,,3,2
+18,0,T1 Topic Coherence,3,3,3,2,3,,3,3
+18,0,T2 Help Understand T1,1,1,1,2,2,,2,2
+18,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+18,169,Similarity,1,2,2,1,3,,1,2
+18,169,T1 Help Understand T2,1,2,2,1,3,,1,2
+18,169,T1 Topic Coherence,3,3,3,2,3,3,3,3
+18,169,T2 Help Understand T1,1,2,1,1,2,,1,1
+18,169,T2 Topic Coherence,3,3,3,2,2,2,3,2
+21,148,Similarity,,,,,,,2,2
+21,148,T1 Help Understand T2,,,,,,,2,1
+21,148,T1 Topic Coherence,1,1,,1,1,1,2,2
+21,148,T2 Help Understand T1,,,,,,,2,2
+21,148,T2 Topic Coherence,2,1,2,,,1,2,2
+22,117,Similarity,,,3,3,3,,,3
+22,117,T1 Help Understand T2,,,3,3,3,,,3
+22,117,T1 Topic Coherence,3,3,3,3,3,3,2,2
+22,117,T2 Help Understand T1,,,1,3,3,,,1
+22,117,T2 Topic Coherence,,,3,3,3,,1,2
+22,237,Similarity,,,1,2,,2,2,1
+22,237,T1 Help Understand T2,1,,1,2,,3,2,
+22,237,T1 Topic Coherence,3,2,3,2,3,3,2,2
+22,237,T2 Help Understand T1,1,,1,2,,1,2,
+22,237,T2 Topic Coherence,3,2,3,2,1,2,2,3
+22,281,Similarity,,2,3,2,3,3,,1
+22,281,T1 Help Understand T2,,2,3,2,3,3,,
+22,281,T1 Topic Coherence,3,3,3,3,3,3,2,3
+22,281,T2 Help Understand T1,,1,1,1,3,1,,
+22,281,T2 Topic Coherence,3,3,3,2,2,3,2,2
+23,204,Similarity,,,,,2,,,2
+23,204,T1 Help Understand T2,,,,,2,,,2
+23,204,T1 Topic Coherence,2,2,1,3,3,,2,2
+23,204,T2 Help Understand T1,,,,,2,,,1
+23,204,T2 Topic Coherence,1,2,1,,3,1,1,3
+25,82,Similarity,3,3,3,3,3,3,3,3
+25,82,T1 Help Understand T2,3,3,3,1,3,3,3,3
+25,82,T1 Topic Coherence,3,3,3,3,3,3,3,2
+25,82,T2 Help Understand T1,1,2,2,3,2,1,3,2
+25,82,T2 Topic Coherence,3,3,3,3,3,3,3,3
+28,0,Similarity,,,,,,,2,
+28,0,T1 Help Understand T2,,,,,,,2,
+28,0,T1 Topic Coherence,,,1,1,,1,2,1
+28,0,T2 Help Understand T1,,,,,,,1,
+28,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+29,0,Similarity,2,,,,,2,3,
+29,0,T1 Help Understand T2,1,,,,,2,3,
+29,0,T1 Topic Coherence,2,1,1,1,1,2,2,1
+29,0,T2 Help Understand T1,1,,,,,2,3,
+29,0,T2 Topic Coherence,3,2,3,3,3,3,3,3
+30,0,Similarity,1,,1,1,2,3,3,2
+30,0,T1 Help Understand T2,1,,1,1,2,3,3,3
+30,0,T1 Topic Coherence,2,2,3,2,3,2,2,2
+30,0,T2 Help Understand T1,1,,1,1,1,1,3,2
+30,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+31,63,Similarity,,2,3,2,3,,3,2
+31,63,T1 Help Understand T2,,1,3,2,2,,3,1
+31,63,T1 Topic Coherence,3,2,3,3,3,3,3,2
+31,63,T2 Help Understand T1,,2,3,2,2,,3,2
+31,63,T2 Topic Coherence,3,3,3,2,3,2,3,2
+32,186,Similarity,,2,,,,,,2
+32,186,T1 Help Understand T2,,,,,,,,3
+32,186,T1 Topic Coherence,,2,,,,,1,2
+32,186,T2 Help Understand T1,,2,,,,,,2
+32,186,T2 Topic Coherence,3,2,3,2,3,,3,3
+36,271,Similarity,,,,,,,,1
+36,271,T1 Help Understand T2,,,,,,,,
+36,271,T1 Topic Coherence,1,,1,,,1,1,2
+36,271,T2 Help Understand T1,,,,,,,,
+36,271,T2 Topic Coherence,3,3,3,3,3,3,2,2
+37,273,Similarity,3,3,3,3,3,3,,3
+37,273,T1 Help Understand T2,3,3,3,3,3,3,,2
+37,273,T1 Topic Coherence,3,3,3,3,3,3,1,3
+37,273,T2 Help Understand T1,3,3,1,3,3,3,,3
+37,273,T2 Topic Coherence,3,3,3,3,3,3,3,3
+39,0,Similarity,1,1,,,,1,,2
+39,0,T1 Help Understand T2,1,1,,,,1,,2
+39,0,T1 Topic Coherence,3,2,1,,3,2,1,2
+39,0,T2 Help Understand T1,1,1,,,,1,,1
+39,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+40,4,Similarity,3,,,,,,2,
+40,4,T1 Help Understand T2,2,,,,,,2,
+40,4,T1 Topic Coherence,3,3,2,1,3,,3,2
+40,4,T2 Help Understand T1,2,,,,,,2,
+40,4,T2 Topic Coherence,3,3,2,,3,2,2,
+41,0,Similarity,3,2,1,2,2,3,3,2
+41,0,T1 Help Understand T2,3,2,1,2,2,3,2,2
+41,0,T1 Topic Coherence,3,3,3,3,2,3,3,2
+41,0,T2 Help Understand T1,1,1,1,1,2,2,3,1
+41,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+41,158,Similarity,3,3,3,3,3,3,2,2
+41,158,T1 Help Understand T2,1,3,1,2,3,3,1,1
+41,158,T1 Topic Coherence,3,3,3,3,3,3,3,2
+41,158,T2 Help Understand T1,3,3,3,3,3,3,3,2
+41,158,T2 Topic Coherence,3,3,3,2,3,3,3,3
+42,0,Similarity,3,2,3,,2,,,2
+42,0,T1 Help Understand T2,3,2,3,,2,,,2
+42,0,T1 Topic Coherence,2,2,2,,2,1,1,2
+42,0,T2 Help Understand T1,3,2,2,,2,,,1
+42,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+43,222,Similarity,3,3,3,2,3,3,3,2
+43,222,T1 Help Understand T2,2,3,3,2,2,3,3,2
+43,222,T1 Topic Coherence,3,3,3,2,3,2,2,2
+43,222,T2 Help Understand T1,1,2,2,3,2,2,3,
+43,222,T2 Topic Coherence,3,3,3,3,3,3,3,3
+43,287,Similarity,3,3,3,3,3,3,,2
+43,287,T1 Help Understand T2,3,1,3,3,3,2,,1
+43,287,T1 Topic Coherence,3,3,3,3,3,3,1,3
+43,287,T2 Help Understand T1,1,3,1,3,3,3,,1
+43,287,T2 Topic Coherence,3,3,3,3,3,3,2,3
+44,168,Similarity,,,2,2,,2,3,
+44,168,T1 Help Understand T2,,,2,2,,1,3,
+44,168,T1 Topic Coherence,,1,2,2,1,2,3,2
+44,168,T2 Help Understand T1,,,3,2,,1,3,
+44,168,T2 Topic Coherence,3,,3,2,2,3,3,2
+46,0,Similarity,,1,,1,1,1,,3
+46,0,T1 Help Understand T2,,1,,1,1,1,,1
+46,0,T1 Topic Coherence,1,3,1,2,2,2,1,3
+46,0,T2 Help Understand T1,,1,,1,1,1,,3
+46,0,T2 Topic Coherence,3,3,3,2,3,3,3,3
+46,7,Similarity,,1,,2,1,2,,3
+46,7,T1 Help Understand T2,,1,,2,1,1,,2
+46,7,T1 Topic Coherence,1,3,1,2,2,2,1,2
+46,7,T2 Help Understand T1,,1,,2,1,1,,2
+46,7,T2 Topic Coherence,3,3,3,2,3,3,2,3
+48,0,Similarity,1,2,2,2,2,2,,2
+48,0,T1 Help Understand T2,1,2,2,2,2,3,,2
+48,0,T1 Topic Coherence,3,3,2,2,2,2,1,2
+48,0,T2 Help Understand T1,1,1,1,2,2,1,,1
+48,0,T2 Topic Coherence,3,3,2,2,3,3,3,3
+49,0,T1 Topic Coherence,1,1,1,,1,1,1,1
+49,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+51,0,Similarity,,2,1,2,1,,2,
+51,0,T1 Help Understand T2,,2,1,2,,,2,
+51,0,T1 Topic Coherence,1,3,2,2,2,1,2,1
+51,0,T2 Help Understand T1,,1,1,1,,,1,
+51,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+53,2,Similarity,1,,1,,1,,,2
+53,2,T1 Help Understand T2,1,,1,,,,,2
+53,2,T1 Topic Coherence,3,3,3,,3,,1,2
+53,2,T2 Help Understand T1,1,,1,,,,,1
+53,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+55,59,Similarity,3,3,3,3,3,3,3,3
+55,59,T1 Help Understand T2,2,3,2,3,3,3,3,1
+55,59,T1 Topic Coherence,3,3,3,3,3,3,3,3
+55,59,T2 Help Understand T1,3,2,3,3,3,3,3,3
+55,59,T2 Topic Coherence,3,3,3,3,2,3,3,2
+56,243,Similarity,,3,2,1,,,1,2
+56,243,T1 Help Understand T2,,,2,1,,,1,2
+56,243,T1 Topic Coherence,3,3,3,3,3,3,3,3
+56,243,T2 Help Understand T1,,,1,1,,,1,1
+56,243,T2 Topic Coherence,,3,3,2,3,,3,2
+57,0,Similarity,,2,,,,,,3
+57,0,T1 Help Understand T2,,1,,,,,,3
+57,0,T1 Topic Coherence,3,2,1,1,1,1,1,2
+57,0,T2 Help Understand T1,,2,,,,,,2
+57,0,T2 Topic Coherence,3,3,3,2,3,3,3,3
+59,82,Similarity,3,3,3,3,3,3,3,3
+59,82,T1 Help Understand T2,3,3,1,3,3,3,3,3
+59,82,T1 Topic Coherence,3,3,3,3,3,3,3,3
+59,82,T2 Help Understand T1,2,2,3,3,3,3,3,1
+59,82,T2 Topic Coherence,3,3,3,2,3,3,3,3
+59,260,Similarity,,,,,3,,2,2
+59,260,T1 Help Understand T2,,,,,3,,1,1
+59,260,T1 Topic Coherence,3,3,3,3,3,3,3,3
+59,260,T2 Help Understand T1,,,,,2,,2,2
+59,260,T2 Topic Coherence,1,1,1,1,2,1,2,3
+60,46,Similarity,2,2,,2,,,,2
+60,46,T1 Help Understand T2,1,1,,,,,,1
+60,46,T1 Topic Coherence,2,2,2,2,2,1,1,2
+60,46,T2 Help Understand T1,1,3,,,,,,2
+60,46,T2 Topic Coherence,2,3,1,2,,1,1,
+60,73,Similarity,1,2,1,,3,,,3
+60,73,T1 Help Understand T2,1,1,1,,1,,,1
+60,73,T1 Topic Coherence,2,2,2,1,3,1,1,3
+60,73,T2 Help Understand T1,1,2,1,,2,,,3
+60,73,T2 Topic Coherence,3,2,3,2,3,3,2,3
+62,131,Similarity,,,,,,,,2
+62,131,T1 Help Understand T2,,,,,,,,2
+62,131,T1 Topic Coherence,,,,1,,,1,2
+62,131,T2 Help Understand T1,,,,,,,,1
+62,131,T2 Topic Coherence,,2,1,1,2,1,1,3
+62,249,T1 Topic Coherence,,1,,,2,1,1,2
+62,249,T2 Topic Coherence,,1,1,,1,1,1,1
+63,2,Similarity,3,2,1,1,1,,2,2
+63,2,T1 Help Understand T2,1,2,1,1,,,2,2
+63,2,T1 Topic Coherence,3,2,2,2,2,1,3,2
+63,2,T2 Help Understand T1,3,2,1,1,,,2,1
+63,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+65,2,Similarity,3,3,3,3,3,3,3,2
+65,2,T1 Help Understand T2,1,2,1,1,3,2,2,1
+65,2,T1 Topic Coherence,3,3,3,3,3,3,3,3
+65,2,T2 Help Understand T1,3,3,3,3,3,3,3,2
+65,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+65,237,Similarity,3,3,,,,3,,2
+65,237,T1 Help Understand T2,2,2,,,,2,,2
+65,237,T1 Topic Coherence,3,,3,3,3,3,3,3
+65,237,T2 Help Understand T1,3,3,,,,2,,1
+65,237,T2 Topic Coherence,3,3,1,1,,2,1,3
+66,0,Similarity,1,2,,1,1,3,1,1
+66,0,T1 Help Understand T2,1,2,,1,,1,1,
+66,0,T1 Topic Coherence,3,3,2,3,3,2,3,2
+66,0,T2 Help Understand T1,1,1,,1,,1,1,
+66,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+66,73,Similarity,3,2,,2,,3,1,
+66,73,T1 Help Understand T2,3,2,,2,,2,1,
+66,73,T1 Topic Coherence,3,3,1,2,3,2,2,1
+66,73,T2 Help Understand T1,3,2,,2,,2,1,
+66,73,T2 Topic Coherence,3,3,3,3,2,3,3,3
+66,247,Similarity,3,3,3,3,,3,1,2
+66,247,T1 Help Understand T2,3,3,2,3,,3,1,1
+66,247,T1 Topic Coherence,3,3,3,3,3,3,3,2
+66,247,T2 Help Understand T1,3,3,3,3,,3,1,1
+66,247,T2 Topic Coherence,3,3,3,3,3,3,3,3
+69,0,Similarity,2,3,2,,3,3,,2
+69,0,T1 Help Understand T2,2,3,2,,3,3,,2
+69,0,T1 Topic Coherence,3,2,3,,3,3,,2
+69,0,T2 Help Understand T1,1,3,1,,2,1,,1
+69,0,T2 Topic Coherence,3,3,3,2,3,3,,3
+69,74,Similarity,2,2,2,2,3,2,3,3
+69,74,T1 Help Understand T2,1,2,2,2,3,2,3,3
+69,74,T1 Topic Coherence,3,2,3,2,3,3,2,3
+69,74,T2 Help Understand T1,1,2,1,1,3,2,2,1
+69,74,T2 Topic Coherence,3,3,2,3,3,2,3,3
+70,266,Similarity,,,,,,,2,2
+70,266,T1 Help Understand T2,,,,,,,2,1
+70,266,T1 Topic Coherence,,,,,3,,2,2
+70,266,T2 Help Understand T1,,,,,,,2,2
+70,266,T2 Topic Coherence,3,3,3,2,3,3,2,3
+71,0,Similarity,1,,,1,1,,,
+71,0,T1 Help Understand T2,1,,,1,,,,
+71,0,T1 Topic Coherence,3,1,1,2,2,1,,1
+71,0,T2 Help Understand T1,1,,,1,,,,
+71,0,T2 Topic Coherence,3,3,3,3,3,3,,3
+71,110,Similarity,3,,,,,1,,2
+71,110,T1 Help Understand T2,1,,,,,1,,1
+71,110,T1 Topic Coherence,3,1,1,1,1,2,1,2
+71,110,T2 Help Understand T1,2,,,,,1,,3
+71,110,T2 Topic Coherence,3,3,3,3,2,2,2,3
+72,0,Similarity,,3,3,3,,,,3
+72,0,T1 Help Understand T2,,3,3,3,,,,3
+72,0,T1 Topic Coherence,,2,2,2,,,1,3
+72,0,T2 Help Understand T1,,3,2,3,,,,1
+72,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+72,62,Similarity,,,,,,,,3
+72,62,T1 Help Understand T2,,,,,,,,2
+72,62,T1 Topic Coherence,2,2,2,2,,2,2,3
+72,62,T2 Help Understand T1,,,,,,,,3
+72,62,T2 Topic Coherence,,1,1,1,,1,1,3
+72,131,Similarity,,,,,2,,,2
+72,131,T1 Help Understand T2,,,,,2,,,2
+72,131,T1 Topic Coherence,,3,1,,2,2,2,3
+72,131,T2 Help Understand T1,,,,,2,,,1
+72,131,T2 Topic Coherence,,,1,2,2,1,1,2
+73,59,Similarity,3,2,2,3,2,3,2,2
+73,59,T1 Help Understand T2,2,3,2,3,3,3,3,2
+73,59,T1 Topic Coherence,3,3,3,2,2,3,3,3
+73,59,T2 Help Understand T1,1,1,1,3,2,3,1,1
+73,59,T2 Topic Coherence,3,3,3,3,3,2,3,3
+73,191,Similarity,1,2,2,,3,2,2,3
+73,191,T1 Help Understand T2,2,2,2,,2,2,2,3
+73,191,T1 Topic Coherence,3,3,3,3,3,3,3,3
+73,191,T2 Help Understand T1,1,1,1,,2,1,2,1
+73,191,T2 Topic Coherence,3,3,3,1,3,3,3,3
+74,0,Similarity,3,3,3,2,2,3,3,3
+74,0,T1 Help Understand T2,3,3,3,3,2,3,2,3
+74,0,T1 Topic Coherence,3,3,2,2,3,3,3,3
+74,0,T2 Help Understand T1,1,2,2,2,2,1,3,1
+74,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+75,188,Similarity,3,2,1,2,3,,2,3
+75,188,T1 Help Understand T2,1,2,1,,2,,2,3
+75,188,T1 Topic Coherence,3,2,3,3,3,3,2,2
+75,188,T2 Help Understand T1,1,2,1,,3,,1,1
+75,188,T2 Topic Coherence,3,2,3,2,3,3,2,3
+76,0,Similarity,,,,1,1,,,
+76,0,T1 Help Understand T2,,,,1,,,,
+76,0,T1 Topic Coherence,,2,1,2,2,1,1,1
+76,0,T2 Help Understand T1,,,,1,,,,
+76,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+77,270,Similarity,,3,,2,2,3,3,
+77,270,T1 Help Understand T2,,2,,2,1,1,3,
+77,270,T1 Topic Coherence,3,3,3,2,3,3,3,2
+77,270,T2 Help Understand T1,,3,,2,2,3,3,
+77,270,T2 Topic Coherence,1,3,1,2,2,3,2,1
+78,87,Similarity,3,3,3,,,,,2
+78,87,T1 Help Understand T2,3,3,3,,,,,2
+78,87,T1 Topic Coherence,3,3,2,,3,3,1,2
+78,87,T2 Help Understand T1,3,3,3,,,,,1
+78,87,T2 Topic Coherence,2,3,2,,,1,1,2
+79,0,Similarity,,,,,,,,
+79,0,T1 Help Understand T2,,,,,,,,
+79,0,T1 Topic Coherence,1,1,,1,,1,1,
+79,0,T2 Help Understand T1,,,,,,,,
+79,0,T2 Topic Coherence,3,,3,3,3,3,3,3
+80,202,Similarity,,,,2,1,,,2
+80,202,T1 Help Understand T2,,1,,,,,,2
+80,202,T1 Topic Coherence,,3,,2,2,3,1,2
+80,202,T2 Help Understand T1,,2,,,,,,1
+80,202,T2 Topic Coherence,3,3,3,3,3,3,1,2
+81,0,Similarity,,2,1,1,1,,1,1
+81,0,T1 Help Understand T2,,1,1,1,,,1,
+81,0,T1 Topic Coherence,1,2,2,2,2,1,2,2
+81,0,T2 Help Understand T1,,2,1,1,,,2,
+81,0,T2 Topic Coherence,3,2,3,3,3,3,3,3
+82,16,Similarity,3,3,3,3,2,3,3,3
+82,16,T1 Help Understand T2,3,3,2,3,3,3,2,2
+82,16,T1 Topic Coherence,3,3,3,2,3,3,3,3
+82,16,T2 Help Understand T1,2,2,3,3,2,3,3,3
+82,16,T2 Topic Coherence,3,3,3,3,3,3,2,3
+82,55,Similarity,3,3,3,3,3,3,3,3
+82,55,T1 Help Understand T2,3,3,3,3,3,3,3,3
+82,55,T1 Topic Coherence,3,3,2,2,3,3,3,3
+82,55,T2 Help Understand T1,3,3,1,3,3,3,3,3
+82,55,T2 Topic Coherence,3,3,3,3,3,3,3,3
+82,172,Similarity,3,3,3,3,3,3,3,2
+82,172,T1 Help Understand T2,2,3,3,3,3,3,3,2
+82,172,T1 Topic Coherence,3,3,3,3,3,3,3,3
+82,172,T2 Help Understand T1,3,3,1,3,3,3,3,1
+82,172,T2 Topic Coherence,3,3,3,3,3,3,2,2
+82,261,Similarity,3,2,3,3,2,3,2,2
+82,261,T1 Help Understand T2,1,2,1,2,1,1,2,1
+82,261,T1 Topic Coherence,3,3,3,2,3,3,3,3
+82,261,T2 Help Understand T1,3,3,3,2,1,3,3,3
+82,261,T2 Topic Coherence,3,2,3,3,3,3,2,2
+84,0,Similarity,2,,,2,,,3,
+84,0,T1 Help Understand T2,1,,,2,,,3,
+84,0,T1 Topic Coherence,3,1,,3,2,2,3,1
+84,0,T2 Help Understand T1,1,,,1,,,2,
+84,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+85,0,Similarity,3,2,3,3,3,3,3,3
+85,0,T1 Help Understand T2,3,2,3,3,3,3,2,3
+85,0,T1 Topic Coherence,3,3,3,3,3,3,3,3
+85,0,T2 Help Understand T1,1,2,2,1,2,1,3,1
+85,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+85,191,Similarity,3,3,3,2,2,3,3,3
+85,191,T1 Help Understand T2,3,3,3,2,3,3,3,3
+85,191,T1 Topic Coherence,3,3,3,2,3,3,3,3
+85,191,T2 Help Understand T1,3,3,3,2,2,3,3,2
+85,191,T2 Topic Coherence,3,3,3,2,3,3,2,3
+87,140,Similarity,,,,,,,2,1
+87,140,T1 Help Understand T2,,,,,,,2,
+87,140,T1 Topic Coherence,,3,2,2,,2,2,2
+87,140,T2 Help Understand T1,,,,,,,2,
+87,140,T2 Topic Coherence,,1,,,,3,3,2
+87,176,Similarity,3,,,,,,,
+87,176,T1 Help Understand T2,3,,,,,,,
+87,176,T1 Topic Coherence,3,2,,2,3,3,2,3
+87,176,T2 Help Understand T1,2,,,,,,,
+87,176,T2 Topic Coherence,2,1,1,1,1,1,1,1
+88,0,Similarity,,,1,1,2,,,
+88,0,T1 Help Understand T2,,,2,1,1,,,
+88,0,T1 Topic Coherence,,1,3,2,2,1,,1
+88,0,T2 Help Understand T1,,,1,1,1,,,
+88,0,T2 Topic Coherence,3,3,3,3,3,3,,3
+88,208,Similarity,,,,1,,,,3
+88,208,T1 Help Understand T2,,,,1,,,,1
+88,208,T1 Topic Coherence,1,1,2,3,1,1,1,3
+88,208,T2 Help Understand T1,,,,1,,,,3
+88,208,T2 Topic Coherence,1,1,1,2,,1,3,2
+90,92,Similarity,3,3,2,2,3,3,,3
+90,92,T1 Help Understand T2,,3,2,2,3,3,,3
+90,92,T1 Topic Coherence,2,3,3,2,3,3,1,2
+90,92,T2 Help Understand T1,,2,2,2,3,3,,2
+90,92,T2 Topic Coherence,2,2,2,2,3,2,3,2
+91,228,Similarity,2,,3,2,3,,3,2
+91,228,T1 Help Understand T2,1,,1,1,2,,3,1
+91,228,T1 Topic Coherence,3,3,3,3,3,1,2,2
+91,228,T2 Help Understand T1,3,,3,2,3,,3,2
+91,228,T2 Topic Coherence,3,1,3,3,2,1,2,3
+92,58,Similarity,,,,2,,,2,
+92,58,T1 Help Understand T2,,,,,,,2,
+92,58,T1 Topic Coherence,3,2,3,2,3,2,3,2
+92,58,T2 Help Understand T1,,,,,,,2,
+92,58,T2 Topic Coherence,,,,,,,2,1
+95,271,Similarity,1,1,,1,1,,2,1
+95,271,T1 Help Understand T2,1,1,,1,,,2,
+95,271,T1 Topic Coherence,2,2,1,2,2,1,2,2
+95,271,T2 Help Understand T1,1,1,,1,,,2,
+95,271,T2 Topic Coherence,3,3,3,3,3,3,3,2
+97,0,Similarity,3,2,2,2,3,3,3,2
+97,0,T1 Help Understand T2,3,,1,2,2,3,2,2
+97,0,T1 Topic Coherence,3,3,3,2,2,3,3,2
+97,0,T2 Help Understand T1,2,,2,1,3,2,3,1
+97,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+97,189,Similarity,3,3,3,2,3,3,3,3
+97,189,T1 Help Understand T2,2,3,3,2,3,3,3,3
+97,189,T1 Topic Coherence,3,3,3,2,2,3,3,3
+97,189,T2 Help Understand T1,2,3,3,2,3,3,3,1
+97,189,T2 Topic Coherence,3,3,3,2,2,3,2,3
+98,99,Similarity,2,2,3,3,2,2,3,2
+98,99,T1 Help Understand T2,1,1,1,1,2,2,2,1
+98,99,T1 Topic Coherence,3,3,3,3,3,2,3,3
+98,99,T2 Help Understand T1,2,3,3,3,2,1,3,2
+98,99,T2 Topic Coherence,3,3,3,3,3,3,3,3
+99,15,Similarity,3,3,3,3,3,3,3,3
+99,15,T1 Help Understand T2,3,3,2,3,3,3,3,3
+99,15,T1 Topic Coherence,3,3,3,3,3,3,3,3
+99,15,T2 Help Understand T1,3,2,3,3,3,3,3,2
+99,15,T2 Topic Coherence,3,3,3,3,3,2,3,3
+99,243,Similarity,,2,3,3,,,2,3
+99,243,T1 Help Understand T2,,3,2,3,,,1,1
+99,243,T1 Topic Coherence,3,3,3,3,3,3,3,3
+99,243,T2 Help Understand T1,,2,3,3,,,2,2
+99,243,T2 Topic Coherence,,3,3,2,3,1,2,2
+103,146,Similarity,,3,2,3,3,,,3
+103,146,T1 Help Understand T2,,3,2,,3,,,3
+103,146,T1 Topic Coherence,1,3,2,2,2,1,1,2
+103,146,T2 Help Understand T1,,3,1,,3,,,2
+103,146,T2 Topic Coherence,3,3,3,3,3,2,3,2
+104,2,Similarity,2,3,2,2,3,3,2,3
+104,2,T1 Help Understand T2,2,3,2,1,3,3,2,1
+104,2,T1 Topic Coherence,3,3,3,2,3,3,2,3
+104,2,T2 Help Understand T1,1,2,1,2,2,1,1,3
+104,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+105,229,Similarity,2,2,3,2,2,2,1,3
+105,229,T1 Help Understand T2,1,1,2,1,2,1,1,1
+105,229,T1 Topic Coherence,2,3,3,2,2,2,3,2
+105,229,T2 Help Understand T1,1,2,3,1,2,1,1,2
+105,229,T2 Topic Coherence,2,2,3,3,3,3,3,3
+106,0,Similarity,1,2,2,3,2,2,2,2
+106,0,T1 Help Understand T2,1,,2,3,1,3,2,2
+106,0,T1 Topic Coherence,3,3,3,3,3,3,3,2
+106,0,T2 Help Understand T1,1,,1,2,1,1,2,1
+106,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+106,286,Similarity,3,3,3,3,3,3,3,3
+106,286,T1 Help Understand T2,2,3,3,3,3,3,3,3
+106,286,T1 Topic Coherence,3,3,3,3,3,3,2,2
+106,286,T2 Help Understand T1,3,3,2,3,3,3,3,1
+106,286,T2 Topic Coherence,3,3,3,3,3,3,3,2
+107,62,Similarity,,,,,,,,2
+107,62,T1 Help Understand T2,,,,,,,,2
+107,62,T1 Topic Coherence,,2,1,,2,1,1,2
+107,62,T2 Help Understand T1,,,,,,,,1
+107,62,T2 Topic Coherence,,1,,1,,,1,2
+107,72,Similarity,,1,,,2,,,
+107,72,T1 Help Understand T2,,1,,,2,,,
+107,72,T1 Topic Coherence,,2,2,1,2,,1,2
+107,72,T2 Help Understand T1,,1,,,2,,,
+107,72,T2 Topic Coherence,,3,,,,2,2,2
+107,249,Similarity,,,,,,,,2
+107,249,T1 Help Understand T2,,,,,,,,2
+107,249,T1 Topic Coherence,,2,2,,2,1,1,2
+107,249,T2 Help Understand T1,,,,,,,,1
+107,249,T2 Topic Coherence,,1,1,1,,1,1,2
+108,111,Similarity,2,2,1,2,3,3,,3
+108,111,T1 Help Understand T2,2,1,1,2,3,1,,2
+108,111,T1 Topic Coherence,3,3,3,2,3,3,,2
+108,111,T2 Help Understand T1,1,2,1,2,2,2,,3
+108,111,T2 Topic Coherence,3,3,3,3,3,3,,2
+108,140,Similarity,,3,,,,3,3,2
+108,140,T1 Help Understand T2,,3,,,,2,3,1
+108,140,T1 Topic Coherence,3,3,3,3,3,3,3,3
+108,140,T2 Help Understand T1,,2,,,,2,3,2
+108,140,T2 Topic Coherence,,3,,,,3,3,2
+111,160,Similarity,3,3,3,2,3,3,2,3
+111,160,T1 Help Understand T2,3,3,2,2,3,3,3,3
+111,160,T1 Topic Coherence,3,3,3,3,3,3,2,3
+111,160,T2 Help Understand T1,1,3,3,3,3,3,2,2
+111,160,T2 Topic Coherence,3,3,3,3,3,3,3,3
+112,118,Similarity,2,3,3,2,2,2,3,
+112,118,T1 Help Understand T2,2,3,3,2,2,3,3,2
+112,118,T1 Topic Coherence,3,3,3,3,3,3,3,2
+112,118,T2 Help Understand T1,1,2,1,1,2,1,2,1
+112,118,T2 Topic Coherence,3,3,3,3,3,3,3,3
+117,2,Similarity,,,2,3,2,,,2
+117,2,T1 Help Understand T2,,,2,1,2,,,2
+117,2,T1 Topic Coherence,,,3,2,3,,1,2
+117,2,T2 Help Understand T1,,,1,3,3,,,1
+117,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+117,43,Similarity,,,3,2,3,,,
+117,43,T1 Help Understand T2,,,1,3,2,,,
+117,43,T1 Topic Coherence,,,3,2,3,2,1,1
+117,43,T2 Help Understand T1,,,3,2,2,,,
+117,43,T2 Topic Coherence,3,3,3,3,3,3,1,3
+117,252,Similarity,,,,2,2,,,
+117,252,T1 Help Understand T2,,,,2,1,,,
+117,252,T1 Topic Coherence,,,1,2,3,,1,1
+117,252,T2 Help Understand T1,,,,2,2,,,
+117,252,T2 Topic Coherence,3,3,3,2,3,3,2,3
+117,281,Similarity,,,1,3,2,,,
+117,281,T1 Help Understand T2,,,1,3,2,,,
+117,281,T1 Topic Coherence,,,2,2,3,,1,1
+117,281,T2 Help Understand T1,,,1,3,2,,,
+117,281,T2 Topic Coherence,3,,3,2,2,3,2,2
+118,68,Similarity,3,,3,3,3,,2,3
+118,68,T1 Help Understand T2,1,,1,3,2,,2,1
+118,68,T1 Topic Coherence,3,3,3,3,3,2,3,3
+118,68,T2 Help Understand T1,3,,3,3,3,,2,2
+118,68,T2 Topic Coherence,3,2,3,2,3,2,3,2
+118,73,Similarity,2,2,1,2,2,2,2,1
+118,73,T1 Help Understand T2,1,1,1,1,1,1,2,1
+118,73,T1 Topic Coherence,3,3,3,3,3,3,3,3
+118,73,T2 Help Understand T1,2,2,2,2,1,1,3,2
+118,73,T2 Topic Coherence,3,3,3,3,3,3,2,3
+119,25,Similarity,3,3,2,2,3,,3,2
+119,25,T1 Help Understand T2,1,2,1,1,2,,3,1
+119,25,T1 Topic Coherence,3,3,3,3,3,2,3,2
+119,25,T2 Help Understand T1,3,3,2,2,3,,3,2
+119,25,T2 Topic Coherence,3,3,3,3,3,3,3,2
+119,82,Similarity,3,3,2,2,2,,3,2
+119,82,T1 Help Understand T2,2,3,1,1,2,,3,2
+119,82,T1 Topic Coherence,3,3,3,2,3,2,3,3
+119,82,T2 Help Understand T1,3,1,2,2,2,,3,1
+119,82,T2 Topic Coherence,3,3,3,2,3,3,3,3
+119,172,Similarity,3,2,2,2,2,,3,2
+119,172,T1 Help Understand T2,1,2,1,2,2,,3,1
+119,172,T1 Topic Coherence,3,3,3,3,3,2,3,3
+119,172,T2 Help Understand T1,2,2,2,2,3,,2,2
+119,172,T2 Topic Coherence,3,3,3,3,3,3,2,3
+120,232,Similarity,,3,,2,3,3,,3
+120,232,T1 Help Understand T2,,3,,2,3,3,,2
+120,232,T1 Topic Coherence,1,3,1,2,3,3,1,2
+120,232,T2 Help Understand T1,,3,,2,3,3,,2
+120,232,T2 Topic Coherence,3,3,3,2,3,3,3,3
+124,266,Similarity,,,2,,,,,
+124,266,T1 Help Understand T2,,,1,,,,,
+124,266,T1 Topic Coherence,,1,2,1,2,1,,
+124,266,T2 Help Understand T1,,,2,,,,,
+124,266,T2 Topic Coherence,3,3,2,3,3,3,,2
+126,92,Similarity,3,,,,,,,
+126,92,T1 Help Understand T2,2,,,,,,,
+126,92,T1 Topic Coherence,2,1,1,1,1,1,1,1
+126,92,T2 Help Understand T1,3,,,,,,,
+126,92,T2 Topic Coherence,3,,2,2,3,2,3,2
+126,204,Similarity,3,,,,,,,
+126,204,T1 Help Understand T2,2,,,,,,,
+126,204,T1 Topic Coherence,2,1,1,1,1,1,1,1
+126,204,T2 Help Understand T1,2,,,,,,,
+126,204,T2 Topic Coherence,2,2,1,1,1,1,2,2
+128,67,Similarity,1,,2,,2,,,
+128,67,T1 Help Understand T2,1,,2,,1,,,
+128,67,T1 Topic Coherence,2,1,2,,3,1,1,1
+128,67,T2 Help Understand T1,,,1,,2,,,
+128,67,T2 Topic Coherence,3,3,2,3,3,3,3,2
+130,2,Similarity,1,2,,1,,,2,2
+130,2,T1 Help Understand T2,1,1,,1,,,2,2
+130,2,T1 Topic Coherence,2,2,,2,,1,2,2
+130,2,T2 Help Understand T1,1,2,,1,,,2,1
+130,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+131,107,Similarity,,,,1,2,,,2
+131,107,T1 Help Understand T2,,1,,1,2,,,1
+131,107,T1 Topic Coherence,,2,,2,2,,1,2
+131,107,T2 Help Understand T1,,2,,1,2,,,2
+131,107,T2 Topic Coherence,,2,2,2,2,1,1,2
+131,175,Similarity,,,,1,,,,2
+131,175,T1 Help Understand T2,,,,1,,,,1
+131,175,T1 Topic Coherence,,2,1,2,2,1,1,2
+131,175,T2 Help Understand T1,,,,1,,,,2
+131,175,T2 Topic Coherence,,1,,2,2,,1,2
+131,249,T1 Topic Coherence,,2,,2,2,1,1,3
+131,249,T2 Topic Coherence,,1,1,1,,1,1,
+134,172,Similarity,3,2,3,2,3,3,3,3
+134,172,T1 Help Understand T2,3,2,3,3,3,3,3,3
+134,172,T1 Topic Coherence,3,3,3,3,3,3,2,2
+134,172,T2 Help Understand T1,2,1,1,1,3,1,2,1
+134,172,T2 Topic Coherence,3,2,3,3,3,3,2,3
+142,257,Similarity,3,2,2,,2,2,2,
+142,257,T1 Help Understand T2,1,2,1,,1,1,1,
+142,257,T1 Topic Coherence,3,3,2,1,2,2,3,
+142,257,T2 Help Understand T1,3,1,2,,3,2,3,
+142,257,T2 Topic Coherence,3,2,3,2,2,3,2,2
+148,256,Similarity,3,2,,,2,3,3,2
+148,256,T1 Help Understand T2,3,2,,,3,2,3,2
+148,256,T1 Topic Coherence,3,2,,,2,2,2,2
+148,256,T2 Help Understand T1,1,2,,,2,3,3,1
+148,256,T2 Topic Coherence,3,3,3,2,3,3,2,3
+149,2,Similarity,1,2,1,2,,,2,1
+149,2,T1 Help Understand T2,1,1,1,1,,,2,
+149,2,T1 Topic Coherence,2,3,2,2,1,1,3,2
+149,2,T2 Help Understand T1,1,2,1,2,,,1,
+149,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+149,202,Similarity,3,3,3,3,2,3,,2
+149,202,T1 Help Understand T2,2,2,3,2,2,1,,1
+149,202,T1 Topic Coherence,2,3,3,3,2,3,3,2
+149,202,T2 Help Understand T1,2,3,2,3,3,3,,2
+149,202,T2 Topic Coherence,3,3,3,3,3,3,1,2
+149,234,Similarity,3,3,2,3,,3,3,3
+149,234,T1 Help Understand T2,1,3,1,3,,1,3,2
+149,234,T1 Topic Coherence,2,3,2,3,1,2,3,2
+149,234,T2 Help Understand T1,2,2,2,3,,1,3,1
+149,234,T2 Topic Coherence,3,3,3,3,3,3,3,3
+150,97,Similarity,2,2,2,1,2,2,,
+150,97,T1 Help Understand T2,2,2,2,1,1,1,,
+150,97,T1 Topic Coherence,3,3,3,2,3,3,1,1
+150,97,T2 Help Understand T1,1,2,1,1,1,1,,
+150,97,T2 Topic Coherence,2,3,3,2,3,3,3,2
+155,4,Similarity,3,2,3,,3,3,,
+155,4,T1 Help Understand T2,3,2,2,,2,,,
+155,4,T1 Topic Coherence,3,2,2,2,2,3,1,2
+155,4,T2 Help Understand T1,,2,3,,2,,,
+155,4,T2 Topic Coherence,3,2,3,,3,2,1,
+158,102,Similarity,,,,,,,2,
+158,102,T1 Help Understand T2,,,,,,,2,
+158,102,T1 Topic Coherence,3,3,3,2,3,3,3,3
+158,102,T2 Help Understand T1,,,,,,,2,
+158,102,T2 Topic Coherence,1,1,1,1,1,1,2,1
+158,181,Similarity,2,2,1,1,3,,,2
+158,181,T1 Help Understand T2,3,2,1,1,3,,,1
+158,181,T1 Topic Coherence,3,3,3,2,3,3,,2
+158,181,T2 Help Understand T1,2,1,1,1,2,,,2
+158,181,T2 Topic Coherence,2,3,2,2,3,3,,3
+158,256,Similarity,3,2,2,,3,,1,3
+158,256,T1 Help Understand T2,3,2,2,,3,,1,1
+158,256,T1 Topic Coherence,3,3,3,1,3,3,3,3
+158,256,T2 Help Understand T1,2,2,1,,2,,1,3
+158,256,T2 Topic Coherence,3,3,3,,3,3,2,3
+158,265,Similarity,2,2,,,,,3,2
+158,265,T1 Help Understand T2,2,,,,,,3,2
+158,265,T1 Topic Coherence,3,3,3,1,3,3,3,2
+158,265,T2 Help Understand T1,2,,,,,,2,1
+158,265,T2 Topic Coherence,3,3,2,2,,,2,3
+159,234,Similarity,3,3,2,3,3,1,,2
+159,234,T1 Help Understand T2,1,2,2,2,2,1,,2
+159,234,T1 Topic Coherence,3,3,3,2,3,3,1,3
+159,234,T2 Help Understand T1,1,3,2,2,1,1,,1
+159,234,T2 Topic Coherence,3,3,3,3,3,3,2,3
+162,211,Similarity,,,,,,,,2
+162,211,T1 Help Understand T2,,,,,,,,2
+162,211,T1 Topic Coherence,,1,,,,1,1,2
+162,211,T2 Help Understand T1,,,,,,,,1
+162,211,T2 Topic Coherence,2,,1,2,2,1,1,3
+164,2,T1 Topic Coherence,1,1,,,1,,1,1
+164,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+166,136,Similarity,,2,,,,,,1
+166,136,T1 Help Understand T2,,1,,,,,,
+166,136,T1 Topic Coherence,3,3,3,1,2,2,2,2
+166,136,T2 Help Understand T1,,1,,,,,,
+166,136,T2 Topic Coherence,,2,2,1,,,1,2
+168,142,Similarity,3,3,3,3,3,2,3,2
+168,142,T1 Help Understand T2,2,3,3,3,2,2,3,2
+168,142,T1 Topic Coherence,3,3,3,3,3,3,3,3
+168,142,T2 Help Understand T1,2,3,1,3,2,,3,2
+168,142,T2 Topic Coherence,3,3,3,2,2,2,2,2
+169,91,Similarity,2,3,3,2,3,3,3,1
+169,91,T1 Help Understand T2,2,2,2,2,3,3,2,
+169,91,T1 Topic Coherence,3,3,3,3,3,2,3,2
+169,91,T2 Help Understand T1,2,3,3,1,3,3,3,
+169,91,T2 Topic Coherence,3,3,3,3,3,2,2,2
+170,104,Similarity,3,3,3,3,3,3,,1
+170,104,T1 Help Understand T2,3,3,3,3,3,3,,
+170,104,T1 Topic Coherence,2,3,3,2,3,3,1,2
+170,104,T2 Help Understand T1,2,2,1,3,3,1,,
+170,104,T2 Topic Coherence,3,2,3,2,2,3,1,2
+172,22,Similarity,,2,3,3,3,2,2,2
+172,22,T1 Help Understand T2,,,1,1,3,1,1,1
+172,22,T1 Topic Coherence,3,3,3,3,3,3,2,2
+172,22,T2 Help Understand T1,,,3,3,3,2,3,2
+172,22,T2 Topic Coherence,3,3,3,3,3,3,2,2
+172,25,Similarity,3,3,3,3,3,3,3,3
+172,25,T1 Help Understand T2,2,1,2,2,3,3,2,1
+172,25,T1 Topic Coherence,3,3,3,3,3,3,3,2
+172,25,T2 Help Understand T1,3,3,3,3,3,2,3,3
+172,25,T2 Topic Coherence,3,3,3,3,3,3,2,2
+172,217,Similarity,2,2,3,3,3,2,1,
+172,217,T1 Help Understand T2,1,1,3,3,3,1,1,
+172,217,T1 Topic Coherence,3,3,3,3,3,3,3,2
+172,217,T2 Help Understand T1,2,2,2,2,2,2,1,
+172,217,T2 Topic Coherence,2,2,3,3,3,3,3,
+172,261,Similarity,3,2,3,3,2,3,3,2
+172,261,T1 Help Understand T2,2,1,1,2,2,1,2,1
+172,261,T1 Topic Coherence,3,3,3,3,3,3,3,3
+172,261,T2 Help Understand T1,3,2,3,2,2,3,3,2
+172,261,T2 Topic Coherence,3,3,3,2,2,2,3,2
+174,271,Similarity,,1,1,,2,,,2
+174,271,T1 Help Understand T2,,1,1,,2,,,1
+174,271,T1 Topic Coherence,3,3,2,1,3,1,1,2
+174,271,T2 Help Understand T1,,1,1,,2,,,2
+174,271,T2 Topic Coherence,3,3,3,3,3,3,3,2
+175,62,Similarity,,,,,,,,2
+175,62,T1 Help Understand T2,,,,,,,,2
+175,62,T1 Topic Coherence,2,1,2,1,2,,1,2
+175,62,T2 Help Understand T1,,,,,,,,1
+175,62,T2 Topic Coherence,,1,,1,,,1,2
+175,72,Similarity,,,,,,,,2
+175,72,T1 Help Understand T2,,,,,,,,2
+175,72,T1 Topic Coherence,,2,1,,2,,1,2
+175,72,T2 Help Understand T1,,,,,,,,1
+175,72,T2 Topic Coherence,,2,,1,,2,2,3
+175,107,Similarity,,,1,,,,,2
+175,107,T1 Help Understand T2,,,1,,,,,1
+175,107,T1 Topic Coherence,,1,2,1,2,1,1,2
+175,107,T2 Help Understand T1,,,1,,,,,2
+175,107,T2 Topic Coherence,,2,3,,2,1,1,2
+176,0,Similarity,2,,,,,,,
+176,0,T1 Help Understand T2,1,,,,,,,
+176,0,T1 Topic Coherence,2,,1,1,,1,1,1
+176,0,T2 Help Understand T1,1,,,,,,,
+176,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+179,85,Similarity,1,2,,2,,,,
+179,85,T1 Help Understand T2,1,2,,1,,,,
+179,85,T1 Topic Coherence,2,2,1,2,,,1,1
+179,85,T2 Help Understand T1,1,2,,2,,,,
+179,85,T2 Topic Coherence,3,3,3,3,3,3,3,3
+182,271,Similarity,1,,2,2,2,,1,2
+182,271,T1 Help Understand T2,1,,1,1,1,,1,1
+182,271,T1 Topic Coherence,2,3,2,2,3,1,2,2
+182,271,T2 Help Understand T1,1,,2,2,2,,1,2
+182,271,T2 Topic Coherence,3,3,2,3,3,3,3,3
+186,56,Similarity,3,3,3,2,3,3,,3
+186,56,T1 Help Understand T2,,3,2,1,3,3,,1
+186,56,T1 Topic Coherence,3,3,2,2,3,2,1,2
+186,56,T2 Help Understand T1,,3,3,2,2,3,,3
+186,56,T2 Topic Coherence,2,3,3,2,3,3,3,2
+187,127,Similarity,,2,3,,,,,2
+187,127,T1 Help Understand T2,,,3,,,,,2
+187,127,T1 Topic Coherence,,3,3,2,,,3,2
+187,127,T2 Help Understand T1,,,2,,,,,1
+187,127,T2 Topic Coherence,2,2,3,2,2,1,1,2
+187,158,Similarity,,3,,,3,,2,2
+187,158,T1 Help Understand T2,,2,,,3,,1,
+187,158,T1 Topic Coherence,,3,2,,3,,3,2
+187,158,T2 Help Understand T1,,2,,,3,,2,3
+187,158,T2 Topic Coherence,3,3,3,2,3,,2,
+189,158,Similarity,,,2,,3,2,2,2
+189,158,T1 Help Understand T2,3,,1,,2,,1,1
+189,158,T1 Topic Coherence,3,3,3,1,3,2,2,3
+189,158,T2 Help Understand T1,2,,2,,3,,3,3
+189,158,T2 Topic Coherence,3,3,3,1,3,3,2,3
+189,214,Similarity,,,,,,,,2
+189,214,T1 Help Understand T2,,,,,,,,2
+189,214,T1 Topic Coherence,3,3,2,2,3,2,2,3
+189,214,T2 Help Understand T1,,,,,,,,1
+189,214,T2 Topic Coherence,1,2,,1,,1,1,2
+189,232,Similarity,3,3,3,,3,3,2,2
+189,232,T1 Help Understand T2,2,3,3,,3,2,1,1
+189,232,T1 Topic Coherence,3,3,3,1,3,3,2,2
+189,232,T2 Help Understand T1,2,3,3,,3,2,2,3
+189,232,T2 Topic Coherence,3,3,3,3,3,3,3,3
+189,242,Similarity,,,,,,,,2
+189,242,T1 Help Understand T2,,,,,,,,1
+189,242,T1 Topic Coherence,3,3,2,1,2,2,2,3
+189,242,T2 Help Understand T1,,,,,,,,2
+189,242,T2 Topic Coherence,,,,1,,,1,2
+189,256,Similarity,3,3,2,2,3,3,3,3
+189,256,T1 Help Understand T2,3,3,2,2,3,3,3,3
+189,256,T1 Topic Coherence,3,3,2,2,3,2,2,3
+189,256,T2 Help Understand T1,3,3,1,2,3,3,3,1
+189,256,T2 Topic Coherence,3,3,3,2,3,3,2,3
+190,271,Similarity,2,,,,3,,,3
+190,271,T1 Help Understand T2,1,,,,3,,,2
+190,271,T1 Topic Coherence,3,3,,,3,2,1,2
+190,271,T2 Help Understand T1,1,,,,3,,,3
+190,271,T2 Topic Coherence,3,3,3,3,3,3,3,3
+192,160,Similarity,3,3,2,2,3,1,1,2
+192,160,T1 Help Understand T2,1,1,2,1,2,1,1,1
+192,160,T1 Topic Coherence,3,3,3,2,3,2,3,3
+192,160,T2 Help Understand T1,3,3,1,2,3,1,1,3
+192,160,T2 Topic Coherence,3,3,2,2,3,3,3,3
+192,169,Similarity,2,3,2,2,3,3,1,2
+192,169,T1 Help Understand T2,2,1,1,1,2,2,1,1
+192,169,T1 Topic Coherence,3,3,3,3,3,2,3,3
+192,169,T2 Help Understand T1,2,3,2,2,3,2,1,2
+192,169,T2 Topic Coherence,3,3,2,2,3,3,3,2
+192,235,Similarity,3,3,3,3,3,,3,3
+192,235,T1 Help Understand T2,1,2,3,3,3,,3,3
+192,235,T1 Topic Coherence,3,2,3,3,3,1,3,3
+192,235,T2 Help Understand T1,2,2,2,3,3,,3,2
+192,235,T2 Topic Coherence,2,2,3,3,3,1,2,3
+194,288,Similarity,1,,,,3,2,1,
+194,288,T1 Help Understand T2,1,,,,2,2,1,
+194,288,T1 Topic Coherence,3,3,2,2,3,3,3,3
+194,288,T2 Help Understand T1,1,,,,3,3,1,
+194,288,T2 Topic Coherence,2,1,1,1,2,2,1,
+195,242,Similarity,,,,2,,,,2
+195,242,T1 Help Understand T2,,,,2,,,,1
+195,242,T1 Topic Coherence,2,1,2,2,,,,3
+195,242,T2 Help Understand T1,,,,2,,,,3
+195,242,T2 Topic Coherence,,2,,2,,,,2
+195,263,Similarity,,,,,1,,,2
+195,263,T1 Help Understand T2,,,,,,,,1
+195,263,T1 Topic Coherence,2,2,,2,2,,1,3
+195,263,T2 Help Understand T1,,,,,,,,2
+195,263,T2 Topic Coherence,,,,,2,,2,2
+199,2,Similarity,,2,,,,,,2
+199,2,T1 Help Understand T2,,1,,,,,,2
+199,2,T1 Topic Coherence,,,1,1,,,1,2
+199,2,T2 Help Understand T1,,2,,,,,,1
+199,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+201,229,Similarity,3,3,,,,,,1
+201,229,T1 Help Understand T2,2,1,,,,,,
+201,229,T1 Topic Coherence,2,2,1,1,1,1,1,2
+201,229,T2 Help Understand T1,2,2,,,,,,
+201,229,T2 Topic Coherence,3,3,2,3,2,2,2,3
+202,177,Similarity,3,2,3,3,3,,,3
+202,177,T1 Help Understand T2,3,3,3,3,3,,,3
+202,177,T1 Topic Coherence,3,3,3,3,3,3,1,3
+202,177,T2 Help Understand T1,1,2,2,2,3,,,1
+202,177,T2 Topic Coherence,3,2,3,3,3,1,3,3
+203,189,Similarity,3,2,2,2,3,3,,
+203,189,T1 Help Understand T2,2,3,2,1,3,2,,
+203,189,T1 Topic Coherence,3,3,2,2,3,3,2,
+203,189,T2 Help Understand T1,3,2,1,2,3,2,,
+203,189,T2 Topic Coherence,3,3,2,3,3,2,1,
+203,256,Similarity,3,2,2,2,3,3,,2
+203,256,T1 Help Understand T2,1,2,2,2,2,2,,2
+203,256,T1 Topic Coherence,3,2,3,2,3,3,1,3
+203,256,T2 Help Understand T1,2,2,1,2,2,2,,3
+203,256,T2 Topic Coherence,3,3,3,2,3,3,1,2
+210,82,Similarity,3,3,2,3,2,3,,3
+210,82,T1 Help Understand T2,3,3,2,3,2,3,,3
+210,82,T1 Topic Coherence,3,3,3,3,3,3,1,2
+210,82,T2 Help Understand T1,1,2,1,2,2,2,,1
+210,82,T2 Topic Coherence,3,3,3,2,3,3,3,3
+210,188,Similarity,3,2,3,2,2,,2,3
+210,188,T1 Help Understand T2,3,,3,2,3,,3,2
+210,188,T1 Topic Coherence,2,3,3,3,3,3,2,3
+210,188,T2 Help Understand T1,2,,2,2,2,,2,2
+210,188,T2 Topic Coherence,2,2,2,2,2,,2,2
+211,166,Similarity,2,2,3,2,,,1,2
+211,166,T1 Help Understand T2,1,1,3,2,,,1,1
+211,166,T1 Topic Coherence,2,3,2,2,1,1,2,3
+211,166,T2 Help Understand T1,1,1,2,2,,,1,2
+211,166,T2 Topic Coherence,3,3,2,2,2,1,2,2
+212,206,Similarity,3,3,,3,3,3,,2
+212,206,T1 Help Understand T2,1,2,,3,2,3,,2
+212,206,T1 Topic Coherence,3,3,3,3,3,3,1,2
+212,206,T2 Help Understand T1,2,3,,3,3,3,,1
+212,206,T2 Topic Coherence,3,3,,3,3,3,2,2
+212,256,Similarity,3,,2,2,3,,,3
+212,256,T1 Help Understand T2,1,,2,1,2,,,1
+212,256,T1 Topic Coherence,2,3,3,2,3,,1,3
+212,256,T2 Help Understand T1,3,,1,2,2,,,3
+212,256,T2 Topic Coherence,3,3,3,2,3,3,1,3
+212,266,Similarity,3,3,2,2,1,2,2,2
+212,266,T1 Help Understand T2,2,2,2,2,,1,2,2
+212,266,T1 Topic Coherence,3,3,3,2,3,3,2,3
+212,266,T2 Help Understand T1,2,2,2,2,,1,2,1
+212,266,T2 Topic Coherence,3,3,2,2,3,3,2,3
+222,32,Similarity,,,3,,,,,2
+222,32,T1 Help Understand T2,,,3,,,,,1
+222,32,T1 Topic Coherence,3,3,3,3,3,3,3,3
+222,32,T2 Help Understand T1,,,2,,,,,2
+222,32,T2 Topic Coherence,,2,2,1,,,1,2
+226,56,Similarity,3,3,3,3,3,3,1,2
+226,56,T1 Help Understand T2,2,2,1,3,3,1,1,1
+226,56,T1 Topic Coherence,3,3,3,2,3,2,2,3
+226,56,T2 Help Understand T1,2,3,3,3,3,3,1,2
+226,56,T2 Topic Coherence,3,3,3,2,3,3,3,2
+228,97,Similarity,1,,3,,,,2,2
+228,97,T1 Help Understand T2,2,,3,,,,2,2
+228,97,T1 Topic Coherence,2,,2,1,1,1,2,3
+228,97,T2 Help Understand T1,1,,1,,,,1,1
+228,97,T2 Topic Coherence,2,3,2,2,3,3,3,3
+229,155,Similarity,2,2,2,3,3,3,2,2
+229,155,T1 Help Understand T2,1,1,1,2,3,2,1,1
+229,155,T1 Topic Coherence,3,3,3,3,3,3,3,3
+229,155,T2 Help Understand T1,1,2,3,2,3,3,3,2
+229,155,T2 Topic Coherence,3,3,3,3,3,3,2,2
+229,292,Similarity,1,,2,2,3,3,2,2
+229,292,T1 Help Understand T2,1,,1,1,2,1,1,2
+229,292,T1 Topic Coherence,3,3,3,3,3,3,3,3
+229,292,T2 Help Understand T1,1,,2,2,3,3,2,1
+229,292,T2 Topic Coherence,3,2,3,2,3,3,3,2
+232,7,Similarity,3,1,2,1,2,2,1,2
+232,7,T1 Help Understand T2,1,,2,1,2,2,1,2
+232,7,T1 Topic Coherence,3,3,3,2,3,3,3,3
+232,7,T2 Help Understand T1,1,,2,1,2,2,1,1
+232,7,T2 Topic Coherence,3,3,3,2,3,3,3,3
+234,250,Similarity,3,3,3,3,3,3,3,2
+234,250,T1 Help Understand T2,3,2,2,3,3,2,3,2
+234,250,T1 Topic Coherence,3,3,3,3,3,3,3,2
+234,250,T2 Help Understand T1,3,3,3,2,3,2,3,1
+234,250,T2 Topic Coherence,3,2,3,3,3,2,2,3
+235,271,Similarity,1,2,1,1,2,,1,2
+235,271,T1 Help Understand T2,1,1,1,1,1,,1,1
+235,271,T1 Topic Coherence,3,3,3,2,2,1,2,2
+235,271,T2 Help Understand T1,1,2,1,1,2,,1,2
+235,271,T2 Topic Coherence,3,3,3,3,3,3,3,3
+235,299,Similarity,1,2,,,,,1,
+235,299,T1 Help Understand T2,1,1,,,,,1,
+235,299,T1 Topic Coherence,3,2,2,2,3,2,3,2
+235,299,T2 Help Understand T1,1,2,,,,,1,
+235,299,T2 Topic Coherence,2,2,1,1,1,1,3,1
+237,1,Similarity,3,2,,,2,2,2,3
+237,1,T1 Help Understand T2,1,2,,,2,1,2,3
+237,1,T1 Topic Coherence,2,2,1,1,2,2,2,3
+237,1,T2 Help Understand T1,1,1,,,2,1,2,1
+237,1,T2 Topic Coherence,3,2,2,1,3,2,3,3
+237,123,Similarity,2,2,,,,2,,3
+237,123,T1 Help Understand T2,1,2,,,,1,,1
+237,123,T1 Topic Coherence,3,2,1,1,1,2,2,2
+237,123,T2 Help Understand T1,2,1,,,,3,,3
+237,123,T2 Topic Coherence,3,2,3,3,3,3,3,2
+238,211,Similarity,2,3,,,2,,,2
+238,211,T1 Help Understand T2,2,3,,,2,,,3
+238,211,T1 Topic Coherence,3,3,1,2,2,2,1,2
+238,211,T2 Help Understand T1,1,1,,,2,,,2
+238,211,T2 Topic Coherence,2,3,2,1,2,1,2,2
+242,2,Similarity,,,,,,,,2
+242,2,T1 Help Understand T2,,,,,,,,2
+242,2,T1 Topic Coherence,,3,,,,1,1,2
+242,2,T2 Help Understand T1,,,,,,,,1
+242,2,T2 Topic Coherence,3,2,3,3,3,3,2,3
+243,285,Similarity,,2,3,,2,,3,3
+243,285,T1 Help Understand T2,,2,2,,3,,3,1
+243,285,T1 Topic Coherence,,2,3,,3,,3,2
+243,285,T2 Help Understand T1,,2,3,,3,,3,2
+243,285,T2 Topic Coherence,2,2,3,2,3,3,3,3
+244,229,Similarity,2,,,,1,,2,3
+244,229,T1 Help Understand T2,1,,,,,,3,1
+244,229,T1 Topic Coherence,3,1,1,1,2,1,2,3
+244,229,T2 Help Understand T1,1,,,,,,2,1
+244,229,T2 Topic Coherence,3,2,3,3,2,3,3,3
+245,43,Similarity,,,,,3,,,2
+245,43,T1 Help Understand T2,,,,,2,,,2
+245,43,T1 Topic Coherence,,,1,1,2,1,1,2
+245,43,T2 Help Understand T1,,,,,3,,,1
+245,43,T2 Topic Coherence,3,3,3,3,3,3,1,3
+245,287,Similarity,,,,2,,,,2
+245,287,T1 Help Understand T2,,,,2,,,,1
+245,287,T1 Topic Coherence,,3,1,2,,1,1,2
+245,287,T2 Help Understand T1,,,,2,,,,2
+245,287,T2 Topic Coherence,3,3,3,2,3,3,2,3
+247,238,Similarity,3,3,2,3,2,,2,2
+247,238,T1 Help Understand T2,3,3,2,3,2,,1,1
+247,238,T1 Topic Coherence,3,3,3,3,3,3,3,3
+247,238,T2 Help Understand T1,3,3,1,3,2,,2,3
+247,238,T2 Topic Coherence,3,2,2,2,2,1,2,3
+248,112,Similarity,2,3,2,2,3,2,,
+248,112,T1 Help Understand T2,3,3,2,2,3,3,,
+248,112,T1 Topic Coherence,3,3,3,2,3,3,,2
+248,112,T2 Help Understand T1,1,2,1,1,2,1,,
+248,112,T2 Topic Coherence,3,3,3,3,3,3,3,3
+248,142,Similarity,,2,1,2,2,,,2
+248,142,T1 Help Understand T2,,2,1,2,2,,,1
+248,142,T1 Topic Coherence,3,3,3,3,3,3,1,2
+248,142,T2 Help Understand T1,,1,1,1,1,,,3
+248,142,T2 Topic Coherence,3,2,2,2,2,3,2,2
+249,72,Similarity,,,,,,,,2
+249,72,T1 Help Understand T2,,,,,,,,1
+249,72,T1 Topic Coherence,,1,1,1,1,,1,2
+249,72,T2 Help Understand T1,,,,,,,,2
+249,72,T2 Topic Coherence,,2,2,2,,,2,3
+250,149,Similarity,3,2,2,2,,2,3,2
+250,149,T1 Help Understand T2,1,2,2,2,,1,3,1
+250,149,T1 Topic Coherence,2,2,3,2,2,2,2,2
+250,149,T2 Help Understand T1,1,2,1,2,,1,2,1
+250,149,T2 Topic Coherence,2,2,3,3,1,2,3,2
+250,202,Similarity,3,3,3,2,3,2,,3
+250,202,T1 Help Understand T2,2,2,3,1,2,1,,1
+250,202,T1 Topic Coherence,2,3,3,2,2,2,2,2
+250,202,T2 Help Understand T1,1,3,1,1,2,2,,3
+250,202,T2 Topic Coherence,3,3,3,3,3,3,1,3
+251,46,Similarity,1,,,1,,,,2
+251,46,T1 Help Understand T2,1,,,1,,,,1
+251,46,T1 Topic Coherence,2,,1,2,1,1,1,2
+251,46,T2 Help Understand T1,1,,,1,,,,2
+251,46,T2 Topic Coherence,2,3,,2,1,1,1,2
+252,77,Similarity,,3,3,2,3,2,1,2
+252,77,T1 Help Understand T2,,3,3,3,3,3,1,3
+252,77,T1 Topic Coherence,3,3,3,2,3,3,2,2
+252,77,T2 Help Understand T1,1,1,1,1,1,1,1,1
+252,77,T2 Topic Coherence,3,2,3,2,3,3,3,3
+256,187,Similarity,,,,2,,,,2
+256,187,T1 Help Understand T2,,,,,,,,1
+256,187,T1 Topic Coherence,3,3,3,2,3,3,1,3
+256,187,T2 Help Understand T1,,,,,,,,1
+256,187,T2 Topic Coherence,,2,,2,,,2,2
+256,266,Similarity,2,2,2,2,2,,2,
+256,266,T1 Help Understand T2,2,1,1,1,1,,2,2
+256,266,T1 Topic Coherence,3,3,2,3,3,3,2,3
+256,266,T2 Help Understand T1,1,2,2,3,2,,3,3
+256,266,T2 Topic Coherence,2,3,3,3,3,,3,2
+260,2,Similarity,,,,,2,,1,2
+260,2,T1 Help Understand T2,,,,,2,,1,2
+260,2,T1 Topic Coherence,1,1,1,1,2,1,2,3
+260,2,T2 Help Understand T1,,,,,1,,1,1
+260,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+260,25,Similarity,,,,,2,,1,2
+260,25,T1 Help Understand T2,,,,,2,,1,2
+260,25,T1 Topic Coherence,1,1,1,1,2,1,2,2
+260,25,T2 Help Understand T1,,,,,1,,1,1
+260,25,T2 Topic Coherence,3,3,3,3,3,3,3,2
+260,47,Similarity,2,,,,1,,,2
+260,47,T1 Help Understand T2,1,,,,,,,2
+260,47,T1 Topic Coherence,2,1,1,1,2,1,1,3
+260,47,T2 Help Understand T1,1,,,,,,,1
+260,47,T2 Topic Coherence,3,1,1,2,2,3,2,2
+260,153,Similarity,3,,,,2,3,,3
+260,153,T1 Help Understand T2,3,,,,2,1,,3
+260,153,T1 Topic Coherence,2,1,1,1,2,2,1,3
+260,153,T2 Help Understand T1,3,,,,2,3,,2
+260,153,T2 Topic Coherence,3,3,2,1,2,2,3,3
+261,25,Similarity,3,3,3,2,,3,3,3
+261,25,T1 Help Understand T2,1,3,2,2,,3,1,1
+261,25,T1 Topic Coherence,3,3,3,3,2,2,3,2
+261,25,T2 Help Understand T1,1,3,3,2,,2,3,3
+261,25,T2 Topic Coherence,3,,3,3,3,3,3,2
+262,69,Similarity,1,3,3,,2,3,3,3
+262,69,T1 Help Understand T2,1,2,3,,2,3,3,1
+262,69,T1 Topic Coherence,3,3,2,2,2,3,3,3
+262,69,T2 Help Understand T1,1,3,1,,2,2,3,3
+262,69,T2 Topic Coherence,3,3,2,,3,3,3,3
+262,157,Similarity,3,2,2,2,,3,3,2
+262,157,T1 Help Understand T2,2,2,2,2,,1,2,1
+262,157,T1 Topic Coherence,3,3,3,3,3,3,2,3
+262,157,T2 Help Understand T1,1,2,1,,,3,3,2
+262,157,T2 Topic Coherence,2,2,2,2,,3,3,2
+262,243,Similarity,,,1,,2,,,2
+262,243,T1 Help Understand T2,,,1,,,,,1
+262,243,T1 Topic Coherence,3,3,3,2,2,3,3,2
+262,243,T2 Help Understand T1,,,1,,,,,2
+262,243,T2 Topic Coherence,,2,3,2,3,3,2,2
+262,258,Similarity,,,1,1,,3,1,2
+262,258,T1 Help Understand T2,,,1,1,,,1,2
+262,258,T1 Topic Coherence,3,3,3,3,2,3,3,3
+262,258,T2 Help Understand T1,,,1,1,,,1,1
+262,258,T2 Topic Coherence,,,2,2,,3,3,2
+263,212,Similarity,,,,2,,,,2
+263,212,T1 Help Understand T2,,,,2,,,,1
+263,212,T1 Topic Coherence,,1,,2,2,,2,2
+263,212,T2 Help Understand T1,,,,2,,,,2
+263,212,T2 Topic Coherence,3,3,3,,3,3,1,2
+263,266,Similarity,,,,2,,,,
+263,266,T1 Help Understand T2,,,,1,,,,
+263,266,T1 Topic Coherence,,,,3,1,,3,1
+263,266,T2 Help Understand T1,,,,2,,,,
+263,266,T2 Topic Coherence,3,3,2,3,3,3,2,2
+263,287,Similarity,,,3,2,3,,2,
+263,287,T1 Help Understand T2,,,2,2,2,,2,
+263,287,T1 Topic Coherence,,,2,2,2,,2,1
+263,287,T2 Help Understand T1,,,1,2,2,,1,
+263,287,T2 Topic Coherence,3,3,3,2,3,3,2,
+264,257,Similarity,3,3,1,2,3,3,,3
+264,257,T1 Help Understand T2,2,1,1,1,2,1,,2
+264,257,T1 Topic Coherence,3,3,2,2,3,2,1,3
+264,257,T2 Help Understand T1,3,3,1,2,3,3,,2
+264,257,T2 Topic Coherence,3,3,3,2,3,2,2,3
+266,148,Similarity,3,,2,2,,3,,2
+266,148,T1 Help Understand T2,,,2,2,,3,,2
+266,148,T1 Topic Coherence,3,3,2,2,3,3,,2
+266,148,T2 Help Understand T1,,,1,2,,1,,3
+266,148,T2 Topic Coherence,3,2,2,2,3,2,,2
+266,265,Similarity,,3,,1,,,2,2
+266,265,T1 Help Understand T2,1,2,,1,,,2,1
+266,265,T1 Topic Coherence,3,3,3,2,3,3,2,3
+266,265,T2 Help Understand T1,1,2,,1,,,2,2
+266,265,T2 Topic Coherence,3,3,,2,3,,3,2
+271,5,Similarity,2,2,2,2,2,,,2
+271,5,T1 Help Understand T2,1,3,1,1,1,,,2
+271,5,T1 Topic Coherence,3,3,3,3,3,3,2,2
+271,5,T2 Help Understand T1,1,2,2,2,1,,,1
+271,5,T2 Topic Coherence,2,3,2,3,2,1,1,2
+271,75,Similarity,2,2,2,1,2,2,2,2
+271,75,T1 Help Understand T2,2,2,2,1,2,3,1,2
+271,75,T1 Topic Coherence,3,3,3,3,3,3,3,2
+271,75,T2 Help Understand T1,1,1,1,1,1,1,2,1
+271,75,T2 Topic Coherence,3,3,3,2,3,3,3,2
+271,82,Similarity,2,3,3,2,3,3,2,3
+271,82,T1 Help Understand T2,2,3,3,2,3,3,3,3
+271,82,T1 Topic Coherence,3,3,3,3,3,3,3,3
+271,82,T2 Help Understand T1,1,1,1,1,3,1,1,1
+271,82,T2 Topic Coherence,3,3,3,3,3,3,3,3
+271,100,T1 Topic Coherence,3,3,3,3,3,3,3,2
+271,100,T2 Topic Coherence,1,1,1,,1,1,1,1
+271,123,Similarity,3,3,3,2,3,3,,1
+271,123,T1 Help Understand T2,1,1,1,1,2,1,,
+271,123,T1 Topic Coherence,3,3,3,3,3,3,2,3
+271,123,T2 Help Understand T1,3,2,3,3,3,3,,
+271,123,T2 Topic Coherence,3,3,3,3,3,3,3,2
+271,130,Similarity,1,2,,,,,2,1
+271,130,T1 Help Understand T2,1,3,,,,,1,
+271,130,T1 Topic Coherence,3,3,3,3,3,3,3,2
+271,130,T2 Help Understand T1,1,1,,1,,,2,
+271,130,T2 Topic Coherence,2,2,,2,,1,2,2
+271,241,Similarity,1,1,1,1,1,,1,2
+271,241,T1 Help Understand T2,1,1,1,1,,,1,2
+271,241,T1 Topic Coherence,3,3,3,3,3,3,3,3
+271,241,T2 Help Understand T1,1,1,1,1,,,1,1
+271,241,T2 Topic Coherence,2,3,2,3,2,1,2,2
+273,93,Similarity,3,3,3,3,3,3,,3
+273,93,T1 Help Understand T2,1,2,2,3,3,1,,3
+273,93,T1 Topic Coherence,3,3,3,3,3,3,,3
+273,93,T2 Help Understand T1,3,3,3,3,3,3,,2
+273,93,T2 Topic Coherence,3,3,3,3,3,3,,3
+275,167,Similarity,3,3,3,,,3,3,3
+275,167,T1 Help Understand T2,3,3,2,,,3,3,3
+275,167,T1 Topic Coherence,3,3,3,,1,3,3,3
+275,167,T2 Help Understand T1,3,3,3,,,3,3,3
+275,167,T2 Topic Coherence,3,3,3,2,3,3,3,3
+275,253,Similarity,,,,,,,,
+275,253,T1 Help Understand T2,,,,,,,,
+275,253,T1 Topic Coherence,3,3,3,3,2,3,3,2
+275,253,T2 Help Understand T1,,,,,,,,
+275,253,T2 Topic Coherence,,,,,1,,3,1
+279,93,Similarity,3,3,3,2,3,3,,3
+279,93,T1 Help Understand T2,1,1,2,2,3,1,,3
+279,93,T1 Topic Coherence,3,3,3,3,3,3,,3
+279,93,T2 Help Understand T1,3,3,3,2,3,3,,3
+279,93,T2 Topic Coherence,3,3,3,3,3,3,,2
+281,25,Similarity,3,,3,3,3,3,,3
+281,25,T1 Help Understand T2,1,,1,3,3,,,1
+281,25,T1 Topic Coherence,3,1,3,3,3,3,1,2
+281,25,T2 Help Understand T1,3,,3,2,3,,,3
+281,25,T2 Topic Coherence,3,3,3,3,3,3,3,3
+281,31,Similarity,3,,2,3,3,,2,2
+281,31,T1 Help Understand T2,,,1,3,,,2,1
+281,31,T1 Topic Coherence,3,,3,3,3,3,2,2
+281,31,T2 Help Understand T1,,,2,2,,,2,2
+281,31,T2 Topic Coherence,3,2,3,3,3,3,2,2
+281,172,Similarity,3,,3,3,3,3,,2
+281,172,T1 Help Understand T2,3,,3,3,3,2,,2
+281,172,T1 Topic Coherence,3,,3,2,3,3,1,2
+281,172,T2 Help Understand T1,3,,2,3,3,3,,1
+281,172,T2 Topic Coherence,3,3,3,3,3,3,3,3
+284,18,Similarity,1,3,3,,,,,2
+284,18,T1 Help Understand T2,1,2,2,,,,,1
+284,18,T1 Topic Coherence,2,3,3,,1,,3,3
+284,18,T2 Help Understand T1,1,2,3,,,,,2
+284,18,T2 Topic Coherence,3,3,3,,2,,3,3
+285,287,Similarity,3,2,,2,3,2,3,2
+285,287,T1 Help Understand T2,2,2,2,2,3,2,3,2
+285,287,T1 Topic Coherence,2,3,2,2,3,3,2,3
+285,287,T2 Help Understand T1,1,2,1,2,3,1,2,1
+285,287,T2 Topic Coherence,3,3,3,2,3,2,2,2
+286,86,Similarity,,,,,,2,,
+286,86,T1 Help Understand T2,,,,,,2,,
+286,86,T1 Topic Coherence,3,3,3,3,3,3,1,2
+286,86,T2 Help Understand T1,,,,,,2,,
+286,86,T2 Topic Coherence,,1,,,,2,2,1
+287,32,Similarity,,2,,2,,,,2
+287,32,T1 Help Understand T2,,,,2,,,,3
+287,32,T1 Topic Coherence,3,2,3,2,3,3,2,3
+287,32,T2 Help Understand T1,,,,2,,,,1
+287,32,T2 Topic Coherence,,2,,2,,,1,3
+287,186,Similarity,3,3,3,3,3,3,,2
+287,186,T1 Help Understand T2,,2,1,1,3,3,,2
+287,186,T1 Topic Coherence,3,2,3,3,3,3,2,3
+287,186,T2 Help Understand T1,,2,3,3,3,2,,1
+287,186,T2 Topic Coherence,3,2,3,3,3,3,1,3
+290,2,Similarity,2,3,2,,2,2,,2
+290,2,T1 Help Understand T2,2,3,2,,1,1,,2
+290,2,T1 Topic Coherence,3,3,3,1,3,2,1,2
+290,2,T2 Help Understand T1,1,1,1,,1,1,,1
+290,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
+292,0,Similarity,1,,2,2,3,3,2,3
+292,0,T1 Help Understand T2,1,3,2,2,3,3,3,1
+292,0,T1 Topic Coherence,3,3,3,2,3,3,3,2
+292,0,T2 Help Understand T1,1,1,2,1,2,1,1,3
+292,0,T2 Topic Coherence,3,3,3,3,3,3,3,3
+294,103,Similarity,1,,,,,,,2
+294,103,T1 Help Understand T2,1,,,,,,,1
+294,103,T1 Topic Coherence,3,1,3,1,2,3,1,3
+294,103,T2 Help Understand T1,1,,,,,,,3
+294,103,T2 Topic Coherence,3,1,1,2,1,,1,2
+297,2,Similarity,,,,,1,,,2
+297,2,T1 Help Understand T2,,,,,,,,2
+297,2,T1 Topic Coherence,1,1,1,1,2,1,1,2
+297,2,T2 Help Understand T1,,,,,,,,1
+297,2,T2 Topic Coherence,3,3,3,3,3,3,3,3
