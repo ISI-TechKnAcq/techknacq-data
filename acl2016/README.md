@@ -18,9 +18,9 @@ The files are:
   the domain (NLP). For a pair of topics T1 and T2, we report the judgments
   for how coherent T1 is, how coherent T2 is, how similar T1 and T2 are to
   each other, how much T1 would help you understand T2, and how much T2 would
-  help you to understand T1. Responses are on a three-point scale:
-  1 Not at all. 
-  2 Somewhat. 
+  help you to understand T1. Responses are on a three-point scale:  
+  1 Not at all.  
+  2 Somewhat.  
   3 Very much.
 
 - *Topic word counts.txt.bz2*: These are the (bzip2-compressed) counts for
@@ -29,3 +29,10 @@ The files are:
 - *Topic model names.csv*: The human-generated names for each of the topics.
   Topics that didn't have a clear interpretation are named 'Miscellany' with a
   unique numeric identifier.
+
+Inputs not included in this release are:
+- The ACL citation network. We use the 2013 release of the ACL Anthology
+  Network, which is available from http://clair.eecs.umich.edu/aan
+- The ACL Anthology text corpus the topic model was learned from. We don't
+  have the permissions to publicly distribute this at present, but it is
+  available by request.
